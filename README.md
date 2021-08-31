@@ -3,7 +3,7 @@ Kalkulator Metode Numerik.
 
 ## Tampilan Aplikasi
 
-![](/design/design-input-form.PNG)
+![](/design/preview.png)
 ![](/design/design-result-1.PNG)
 ![](/design/design-result-2.PNG)
 
